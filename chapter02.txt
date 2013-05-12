@@ -1,2 +1,4 @@
 core facilities
 1.Exception
+
+2.It is just like main.xaml

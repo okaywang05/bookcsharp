@@ -6,3 +6,6 @@ It is the root of the type hierarchy...
 
 2. Array
 All array is inherited from System.Array
+
+3.XAML
+It is extention for xml
