@@ -1,1 +1,4 @@
 basic types
+
+1. Object
+The object type is the ultimate base class of all classes in the .NET Framework;
