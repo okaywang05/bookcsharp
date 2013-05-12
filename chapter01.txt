@@ -9,3 +9,6 @@ All array is inherited from System.Array
 
 3.XAML
 It is extention for xml
+
+4.begin to do my work of profile page
+three pivot...
