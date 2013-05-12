@@ -3,3 +3,6 @@ basic types
 1. Object
 The object type is the ultimate base class of all classes in the .NET Framework;
 It is the root of the type hierarchy...
+
+2. Array
+All array is inherited from System.Array
